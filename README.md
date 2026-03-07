@@ -296,19 +296,18 @@ This project is open source and available under the MIT License.
 - Lucide React for beautiful icons
 - EmailJS for email service integration
 
+
+#### Special Thanks to 'PedroTech' for his youtube tutorial:
+
+
+https://www.youtube.com/@PedroTechnologies
+
 ## 📞 Support
 
 If you have questions or need assistance, feel free to:
 - Open an issue on GitHub
 - Send an email to BenedictAngelo@protonmail.com
 - Contact via LinkedIn
-
----
-
-** Special Thanks to 'PedroTech' for his youtube tutorial,
-*** link to his youtube profile:
-
-https://www.youtube.com/@PedroTechnologies
 
 ---
 **Last Updated**: 2026
