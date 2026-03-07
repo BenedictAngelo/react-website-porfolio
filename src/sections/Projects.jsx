@@ -10,7 +10,7 @@ const projects = [
     image: "/projects/project1.png",
     tags: ["React","JSX","Tailwind CSS","Vite"],
     link: "https://benedictangelo.github.io/",
-    github: "https://github.com/BenedictAngelo/BenedictAngelo.github.io",
+    github: "https://github.com/BenedictAngelo/react-website-porfolio",
   },
   {
     title: "Static Website [DEPRECATED]",
