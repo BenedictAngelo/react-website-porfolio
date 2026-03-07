@@ -233,6 +233,7 @@ Replace images in the `public/` directory:
 
 ### Mobile View
 ![](images/mobile.png)
+
 *Responsive design on mobile devices*
 
 ## 🔧 Environment Variables
