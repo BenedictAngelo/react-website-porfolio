@@ -22,13 +22,13 @@ const projects = [
     github: "https://github.com/BenedictAngelo/static-website",
   },
   {
-    title: "Password Generator",
+    title: "Password Manager",
     description: 
-      "A simple Python script, capable of generating password with desired number of characters, email, then list on a separate file",
+      "A Python project packaged by Poetry. Created for managing lists of website, emails and generating encrypted password using Fernet",
     image: "/projects/project3.png",
-    tags: ["Python","Bash","Cybersecurity"],
+    tags: ["Python","Poetry","Bash","Cybersecurity"],
     link: "#",
-    github: "https://github.com/BenedictAngelo/Simple-Password-Generator",
+    github: "https://github.com/BenedictAngelo/password-manager",
   },
   {
     title: "Login Analyzer",
